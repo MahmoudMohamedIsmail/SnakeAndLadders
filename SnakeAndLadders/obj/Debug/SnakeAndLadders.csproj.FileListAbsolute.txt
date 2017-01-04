@@ -1,0 +1,21 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.Form1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2013\Projects\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.exe.config
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.exe
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.pdb
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.exe
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\bin\Debug\SnakeAndLadders.pdb
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.Properties.Resources.resources
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\Interop.SpeechLib.dll
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.Snakes.resources
+\\vmware-host\Shared Folders\Fourth\Extra\SnakeAndLadders\SnakeAndLadders\obj\Debug\SnakeAndLadders.Start.resources
